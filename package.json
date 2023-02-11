@@ -1,0 +1,30 @@
+{
+  "name": "js-homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteHorse1981/node-js-homework-1.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "WhiteHorse1981",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhiteHorse1981/node-js-homework-1/issues"
+  },
+  "homepage": "https://github.com/WhiteHorse1981/node-js-homework-1#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.20"
+  }
+}
